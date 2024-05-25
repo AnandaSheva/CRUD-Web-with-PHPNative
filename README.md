@@ -10,7 +10,3 @@ The PHP & MySQL Blog App with CRUD application is a web that allows users to add
 - Sign in and sign up functionality
 - Dashboard panel for admin
 - Search functionality
-
-## Live Demo
-
-Soon~
