@@ -1,0 +1,28 @@
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: blue;
+  background-size: cover;
+}
+
+.navbar-brand {
+  font-family: "Poppins";
+}
+
+.login {
+  border: 0;
+  height: 500px;
+  margin: auto;
+}
+
+.login h4 {
+  margin-top: 100px;
+}
+
+form .form-group input {
+  margin: auto;
+}
+
+form .user input {
+  margin: auto;
+  margin-top: 70px;
+}

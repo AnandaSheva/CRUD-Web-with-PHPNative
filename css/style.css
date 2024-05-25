@@ -1,0 +1,14 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar-brand{
+    font-family: 'Righteous', cursive;
+}
+
+.link a{
+    display: inline-block;
+    margin-top: 20px;
+    margin-right: 10px;
+    color: #fff;
+}
